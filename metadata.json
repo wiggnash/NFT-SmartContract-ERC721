@@ -1,0 +1,43 @@
+{
+  "description": "This NFT Proves that I have deployed an ERC721 Smart Contract on Sepolia Network",
+  "external_url": "https://www.alchemy.com",
+  "image": "https://ipfs.filebase.io/ipfs/QmdcrdCgq9AfY5XoPdcmgATKnt43ctXuXpQiUbBa8evaYu",
+  "name": "First NFT : Vintage Pilot",
+  "attributes": [
+    {
+      "trait_type": "Time",
+      "value": "90's"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Level",
+      "value": 5
+    },
+    {
+      "trait_type": "Stamina",
+      "value": 1.4
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Strong"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Aqua Power",
+      "value": 40
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Stamina Increase",
+      "value": 10
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 2
+    }
+  ]
+}
