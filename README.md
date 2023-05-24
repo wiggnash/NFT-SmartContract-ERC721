@@ -1,10 +1,10 @@
 # Developing an NFT Smart Contract (ERC721)
 
 We will develop and deploy an ERC721 (NFT) smart contract using 
-1. Alchemy
-2. OpenZeppelin 
-3. Remix 
-4. Ethereum Sepolia.
+1. Alchemy - Node providers manage and maintain the infrastructure required to run blockchain nodes
+2. OpenZeppelin - open-source framework and library for building secure and audited smart contracts on various blockchain platforms, primarily Ethereum.
+3. Remix IDE
+4. Ethereum goerli opensea does not support Sepolia - Testnet
 
 ## Target
 
